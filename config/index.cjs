@@ -13,15 +13,15 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c3f4480092a4b757a8e7b3a5ca21cb96',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '重庆',
+  CITY: '重庆',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouFaO5zCmGFUeRWS2JS4FFZ45Hto',
+      id: 'ouFaO55eo20eBWxEkl5Ay1z1QOEc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0Lmqf2_fkkOuJt_nNxfnz7YaY6q6Q3mI71bpRzXLIuY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'Hju0-KReB-bqQdcSphrV6JGsMGHmcF3dP6kV2gs1Be4',
 
   CALLBACK_USERS: [
     {
